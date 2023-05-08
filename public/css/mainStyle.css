@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.main {
+    width: 100vw;
+    display: grid;
+    justify-content: center;
+    grid-template-rows: 578px 78px;
+    grid-template-columns: 448px;
+    row-gap: 60px;
+}
+
+.compose {
+    margin-top: 130px;
+    background-color: black;
+    display: grid;
+    grid-template-columns: 95px 339px;
+    grid-template-rows: 322px 113px;
+    column-gap: 14px;
+    row-gap: 13px;
+}
+
+#normal-compose {
+
+}
+
+#modal-compose {
+    display: none;
+    background-color: green;
+}
+
+.block1 {
+    display: grid;
+    grid-template-columns: 95px;
+    grid-template-rows: 133px 162px;
+    row-gap: 27px;
+}
+
+.block4 {
+    display: grid;
+    grid-template-rows: 113px;
+    grid-template-columns: 284px 40px;
+    column-gap: 15px;
+}
+
+.block6 {
+    display: grid;
+    grid-template-columns: 35px 5px;
+    grid-template-rows: 45px 10px 10px 48px;
+}
+
+.button-wrapper {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 302px;
+    grid-template-rows: 78px;
+}
+
+.button {
+    font-family: 'Futura PT Medium';
+    font-size: 1.5em;
+    color: #ffffff;
+    background-color: #000000;
+    border-radius: 50px;
+    border: 3px solid #ffffff;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    text-align: center;
+
+    transition-duration: 0.4s;
+    transition-property: background-color;
+}
+
+.button:hover {
+    background-color: #ffffff;
+    color: #000000;
+    cursor: pointer;
+    user-select: none;
+}

@@ -1,0 +1,186 @@
+* {
+    font-family: 'Futura PT', sans-serif;
+    color: #ffffff;
+}
+
+h1 {
+    font-family: 'Futura PT Medium';
+    font-size: 3.25em;
+    font-weight: normal;
+    line-height: 56px;
+    margin-bottom: 0;
+    margin-top: 100px;
+}
+
+h2 {
+    font-family: 'Futura PT Medium';
+    font-size: 2em;
+    font-weight: normal;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+h3 {
+    font-family: 'Futura PT Medium';
+    font-size: 1.5em;
+    font-weight: normal;
+    margin-top: 40px;
+    margin-bottom: 35px;
+}
+
+p {
+    font-family: 'Futura PT Book';
+    font-size: 1.5em;
+    line-height: 30px;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+li {
+    font-family: 'Futura PT Book';
+    font-size: 1.5em;
+    line-height: 30px;
+    width: 842px;
+    margin-bottom: 10px;
+}
+
+#paragraph1 {
+    width: 805px;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+#paragraph2 {
+    width: 805px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph3 {
+    width: 764px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#paragraph4 {
+    width: 764px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph5 {
+    width: 764px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph6 {
+    width: 764px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph7 {
+    width: 764px;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+#paragraph8 {
+    width: 764px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#paragraph9 {
+    width: 796px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph10 {
+    width: 796px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph11 {
+    width: 800px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#paragraph12 {
+    width: 800px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph13 {
+    width: 747px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph14 {
+    width: 747px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph15 {
+    width: 747px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph16 {
+    width: 769px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph17 {
+    width: 768px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph18 {
+    width: 762px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#paragraph19 {
+    width: 836px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph20 {
+    width: 819px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph21 {
+    width: 812px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#paragraph22 {
+    width: 777px;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+#paragraph23 {
+    width: 812px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
