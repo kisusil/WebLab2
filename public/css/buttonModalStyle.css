@@ -1,0 +1,13 @@
+.close-button {
+    border-left: 3px solid #ffffff;
+    border-bottom: 3px solid #ffffff;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.close-button:hover {
+    cursor: pointer;
+}

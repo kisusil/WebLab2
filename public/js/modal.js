@@ -1,18 +1,14 @@
 let button = document.getElementById("modal-btn");
-let modalCompose = document.getElementById("modal-compose");
-let normalCompose = document.getElementById("normal-compose");
+let mainModal = document.getElementById("main-modal");
+let main = document.getElementById("main");
+let closeButton = document.getElementById("close-button");
 
 button.onclick = function() {
-    modalCompose.style.display = "grid";
-    normalCompose.style.display = "none";
-    button.style.display = "none";
+    mainModal.style.display = "grid";
+    main.style.display = "none";
 }
 
-window.onclick = function(event) {
-    let target = event.target;
-    if (target !== button && target !== modalCompose) {
-        modalCompose.style.display = "none";
-        normalCompose.style.display = "grid";
-        button.style.display = "block";
-    }
+closeButton.onclick = function() {
+    mainModal.style.display = "none";
+    main.style.display = "grid";
 }

@@ -1,0 +1,93 @@
+.main-modal {
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    grid-template-rows: 918px;
+    grid-template-columns: 915px;
+}
+
+#main-modal {
+    display: none;
+}
+
+#modal-compose {
+    border: 3px solid #ffffff;
+    position: relative;
+    grid-template-columns: 188px 681px;
+    grid-template-rows: 651px 227px ;
+    column-gap: 40px;
+    row-gap: 37px;
+}
+
+.modalBlock1 {
+    display: grid;
+    grid-template-columns: 188px;
+    grid-template-rows: 265px 327px;
+    row-gap: 59px;
+}
+
+.modalBlock1_1 {
+    border-right: 3px solid #ffffff;
+    border-bottom: 3px solid #ffffff;
+}
+
+.modalBlock1_2 {
+    border-top: 3px solid #ffffff;
+    border-right: 3px solid #ffffff;
+    border-bottom: 3px solid #ffffff;
+}
+
+.modalBlock2 {
+    border-left: 3px solid #ffffff;
+    border-bottom: 3px solid #ffffff;
+}
+
+.modalBlock3 {
+    border-top: 3px solid #ffffff;
+    border-right: 3px solid #ffffff;
+}
+
+.modalBlock4 {
+    display: grid;
+    grid-template-rows: 227px;
+    grid-template-columns: 565px 73px;
+    column-gap: 43px;
+}
+
+.modalBlock5 {
+    border-top: 3px solid #ffffff;
+    border-left: 3px solid #ffffff;
+    border-right: 3px solid #ffffff;
+}
+
+.modalBlock6 {
+    display: grid;
+    grid-template-columns: 63px 10px;
+    grid-template-rows: 86px 25px 25px 88px;
+}
+
+.modalBlock6_1_1 {
+    border-top: 3px solid #ffffff;
+    border-left: 3px solid #ffffff;
+    border-bottom: 3px solid #ffffff;
+}
+
+.modalBlock6_1_2 {
+    border-top: 3px solid #ffffff;
+}
+
+.modalBlock6_2_1 {
+    border-top: 3px solid #ffffff;
+    border-right: 3px solid #ffffff;
+}
+
+.modalBlock6_3_1 {
+    border-right: 3px solid #ffffff;
+    border-bottom: 3px solid #ffffff;
+}
+
+.modalBlock6_4_1 {
+    border-left: 3px solid #ffffff;
+}

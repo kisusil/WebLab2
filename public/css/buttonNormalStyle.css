@@ -1,0 +1,26 @@
+.button-wrapper {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 302px;
+    grid-template-rows: 78px;
+}
+
+.button {
+    font-family: 'Futura PT Medium';
+    font-size: 1.5em;
+    color: #ffffff;
+    background-color: #000000;
+    border-radius: 50px;
+    border: 3px solid #ffffff;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    text-align: center;
+    transition-duration: 0.4s;
+    transition-property: color, background-color;
+}
+
+.button:hover {
+    background-color: #ffffff;
+    color: #000000;
+    cursor: pointer;
+}
